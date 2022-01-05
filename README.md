@@ -1,16 +1,9 @@
-# app_prototype
+# CircleSpace
 
-A new Flutter project.
+A new Flutter project made for my intern members to sociaize things related to company within.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![unnamed (1)](https://user-images.githubusercontent.com/54052517/148190494-b6407c4c-1bd5-4371-9c58-8c26d133999d.jpg)
+![unnamed (2)](https://user-images.githubusercontent.com/54052517/148190504-ce4d3887-0815-4c45-9c86-d176bae1ad1b.jpg)
+![unnamed (3)](https://user-images.githubusercontent.com/54052517/148190518-31ec248e-a796-40d1-993b-d0014ff8302a.jpg)
+![Capture](https://user-images.githubusercontent.com/54052517/148189808-9bf51e3c-062d-4e27-9068-f98e9424ca0c.PNG)
